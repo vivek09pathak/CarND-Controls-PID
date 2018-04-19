@@ -32,4 +32,5 @@ For The PID implementation i tuned it at different parameters as started from cl
 
 Discussion
 1. Briefly discuss what could you do to make the implementation more robust?
+
 Though manual tuning is not the correct way to impelement as i will try this one with different algorithms as i have more deep knowledge for PID implemetation using twiddle algo or controlling throttle etc.
